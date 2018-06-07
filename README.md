@@ -1,7 +1,6 @@
-# Movie_Trailer_Website
-## Udacity | Full Stack Web Development | Programming Fundamentals and the Web
+# Movie_Trailer_Website: Stephanie's Suggested TV Shows and Movies
+### Udacity | Full Stack Web Development | Programming Fundamentals and the Web
 
-## Movie Trailer Website: Stephanie's Suggested TV Shows and Movies
 
 ##### Install:
 [Python 2.7](https://www.python.org/downloads/)
