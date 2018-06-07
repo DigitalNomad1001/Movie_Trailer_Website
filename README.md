@@ -1,20 +1,18 @@
 # Movie_Trailer_Website
-Udacity: Full Stack Web Development Project 1
+###Udacity | Full Stack Web Development | Programming Fundamentals and the Web
 
-Movie Trailer Website: Stephanie's Suggestions
+###Movie Trailer Website: Stephanie's Suggested TV Shows and Movies
 
-Required libraries and dependencies:
-    Requires Python v2.* to be installed
+###Install:
+    [Python 2.7] (https://www.python.org/downloads/)
 
-How to run project:
-    Ensure you have access to the entire project folder MOVIE TRAILER WEBSITE. (entertainment_center.py,
-    media.py, fresh_tomatoes.py, README.md)
-    To run the code open the entertainment_center.py folder with IDLE and run.
+#####How to run project:
+    ..* clone this repository and open in python IDLE or your local environment
+    ..* entertainment_center.py to run code
 
-Where to make a adjustments:
-    entertainment_center.py - add movies
-    media.py - add content type
-    fresh_tomatoes.py - adjust the layout 
+#####Where to make a adjustments:
+    ..* add movies: entertainment_center.py 
+    ..* add content type: media.py 
+    ..* adjust the layout: fresh_tomatoes.py 
 
-Miscellaneous:
-    Creator: digi_life
+
