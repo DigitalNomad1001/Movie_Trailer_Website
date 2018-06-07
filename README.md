@@ -1,10 +1,10 @@
 # Movie_Trailer_Website
-### Udacity | Full Stack Web Development | Programming Fundamentals and the Web
+## Udacity | Full Stack Web Development | Programming Fundamentals and the Web
 
-#### Movie Trailer Website: Stephanie's Suggested TV Shows and Movies
+## Movie Trailer Website: Stephanie's Suggested TV Shows and Movies
 
 ##### Install:
-    [Python 2.7] (https://www.python.org/downloads/)
+[Python 2.7](https://www.python.org/downloads/)
 
 ##### How to run project:
   * clone this repository and open in python IDLE or your local environment
