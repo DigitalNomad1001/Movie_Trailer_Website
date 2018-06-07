@@ -1,4 +1,4 @@
-# Movie_Trailer_Website: Stephanie's Suggested TV Shows and Movies
+# Movie_Trailer_Website: Stephanie's Suggested Movies
 ### Udacity | Full Stack Web Development | Programming Fundamentals and the Web
 
 
